@@ -7,7 +7,6 @@
 <body>
     <h2>Cadastrar Notas do Aluno</h2>
     
-    <!-- Formulário enviando via GET -->
     <form action="salvar_notas.php" method="GET">
         <label for="nome">Nome do Aluno:</label><br>
         <input type="text" id="nome" name="nome" required><br><br>
